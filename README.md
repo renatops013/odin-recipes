@@ -1,0 +1,1 @@
+This current project is an exercice for the Odin Project where we will build a Recipes website
